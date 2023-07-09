@@ -16,7 +16,7 @@
 
 ---
 <br>
-### :technologist: About Me :
+:technologist: About Me :
 I am an Android developer and a student at Vistula University in Warsaw.
 
 My Personal Website:
@@ -49,11 +49,23 @@ My Personal Website:
 ---
 
 <br>
-:fire: My Stats :
+:fire: My GitHub stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmetAzizov&show_icons=true&theme=transparent)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AhmetAzizov&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetAzizov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<br>
+🏆 GitHub Trophies:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AhmetAzizov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+<br>
+🔝 Top Contributed Repositories:
 
 
 <br><br>
