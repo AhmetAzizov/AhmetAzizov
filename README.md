@@ -16,13 +16,8 @@
 
 ---
 <br>
-:technologist: About Me :
-I am an Android developer and a student at Vistula University in Warsaw.
-
-My Personal Website:
-<a href="https://ahmetazizov.com/">
-    <img src="https://img.shields.io/badge/Personal Website-blue" alt="Personal Website"/>
-</a><br><br>
+:technologist: I am an Android developer and a student at Vistula University in Warsaw.
+<br><br>
 
 ---
 
@@ -63,9 +58,7 @@ My Personal Website:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AhmetAzizov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-<br>
-🔝 Top Contributed Repositories:
+
 
 
 <br><br>
