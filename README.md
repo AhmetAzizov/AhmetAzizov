@@ -16,7 +16,7 @@
 
 ---
 <br>
-:technologist: I am an Android developer and a student at Vistula University in Warsaw.
+:technologist: Android and web developer. Computer engineering Student at Vistula University in Warsaw.
 <br><br>
 
 ---
