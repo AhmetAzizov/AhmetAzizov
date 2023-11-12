@@ -1,5 +1,5 @@
 <br><div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
 </div><br><br>
 
 <div id="badges" align="center">
@@ -13,7 +13,9 @@
 
 ---
 <br>
-<h2>:technologist: Android and web developer. Computer engineering Student at Vistula University in Warsaw.</h2>
+<h2>👨‍💻 Android and web developer. Computer engineering Student at Vistula University in Warsaw.</h2>
+<br>
+<h2>📧 You can reach me from: <a href="mailto:ahmet.azizov@gmail.com">ahmet.azizov@gmail.com</a></h2>
 <br><br>
 
 ---
