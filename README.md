@@ -13,7 +13,7 @@
 
 ---
 <br>
-<h2>👨‍💻 Android and web developer. Computer engineering Student at Vistula University in Warsaw.</h2>
+<h2>👨‍💻 Android and web developer</h2>
 <br>
 <h2>📧 You can reach me from: <a href="mailto:ahmet.azizov@gmail.com">ahmet.azizov@gmail.com</a></h2>
 <br><br>
